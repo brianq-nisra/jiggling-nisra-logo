@@ -5,7 +5,7 @@
 
 .segment.jiggle {
   animation: shake 0.625s linear infinite;
-  filter: saturate(70%);
+  filter: saturate(50%);
 }
 
 @keyframes shake {
